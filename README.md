@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArmandoR-code
-- 👀 I’m interested: in Cybersecurity, Bioinformatics, Data Science, Biodata & Biohacking 
+- 👀 I’m interested: in Cybersecurity, Data Science and Back-end develop
 - 🌱 I’m currently learning: HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on: Any Open Source projects relate to Science (Bioinformatic or Biodata) and also on security improvement.
+- 💞️ I’m looking to collaborate on: Any Open Source projects where I can gain experience 
 - 📫 How to reach me on: At Discord as Army#8923 or at SoloLearn as R-code
 
 <!---
