@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArmandoR-code
+- 👋 Hi, I’m @Army-R
 - 👀 I’m interested: in Cybersecurity, Data Science, Game development and Back-end development 
 - 🌱 I’m currently learning: HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on: Any Open Source projects where I can gain experience 
